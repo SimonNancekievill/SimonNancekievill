@@ -13,4 +13,4 @@
 
 
 ### Links
-- LinkedIn
+[**Visit my LinkedIn Profil**](https://www.linkedin.com/in/simon-nancekievill-a081881a8/)<img src="./icons8-linkedin-50.svg" alt="linkedin Logo"> 
