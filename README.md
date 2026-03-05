@@ -6,8 +6,8 @@
 - so empty
 
 ### Programming Languages
-- <img src="https://github.com/SimonNancekievill/SimonNancekievill/blob/main/html-5_919827.png" width="50px" height="50px" alt="html Logo">*work in progress*
-- <img src="./css_919826.png" width="50px" height="50px" alt="css Logo">*work in progress*
+<img src="https://github.com/SimonNancekievill/SimonNancekievill/blob/main/html-5_919827.png" width="50px" height="50px" alt="html Logo">*work in progress*
+<img src="./css_919826.png" width="50px" height="50px" alt="css Logo">*work in progress*
 
 
 ### Links
