@@ -7,7 +7,10 @@
 - so empty
 
 ### Languages
-- 
+- learing [Html Logo]()
+- learing [CSS Logo]()
+- learing [JavaScript Logo]()
+- learing [React Logo]()
 
 
 ### Links
