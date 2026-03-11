@@ -14,4 +14,4 @@
 - social skills
 
 ## 🤳🏻 contact
-- [visit my LinkedIn](https://www.linkedin.com/in/simon-nancekievill-a081881a8/)
+- [visit my LinkedIn](https://www.linkedin.com/in/simon-nancekievill/)
